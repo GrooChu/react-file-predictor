@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{147:function(e){e.exports=JSON.parse('{"allTagsPath":"/react-file-predictor/react-file-predictor/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"/react-file-predictor/react-file-predictor/blog/tags/hello"}')}}]);
