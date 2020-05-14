@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{139:function(o){o.exports=JSON.parse('{"allTagsPath":"https://groochu.github.io/react-file-predictor/blog/tags","slug":"docusaurus","name":"docusaurus","count":3,"permalink":"https://groochu.github.io/react-file-predictor/blog/tags/docusaurus"}')}}]);
