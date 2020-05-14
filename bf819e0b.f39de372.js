@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[19],{155:function(o){o.exports=JSON.parse('{"allTagsPath":"/react-file-predictor/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/react-file-predictor/blog/tags/facebook"}')}}]);
